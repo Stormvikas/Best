@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, TextInput, ScrollView } from 'react-native';
 import * as tf from '@tensorflow/tfjs';
-import '@tensorflow/tfjs-react-native';
 import * as Crypto from 'crypto-js';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
