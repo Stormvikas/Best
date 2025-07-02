@@ -2,7 +2,7 @@
   "build": {
     "preview": {
       "android": {
-        "buildType": "apk"
+        "concurrency": 1
       }
     }
   }
