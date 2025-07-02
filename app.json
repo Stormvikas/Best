@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Stake Predictor",
+    "slug": "stake-mines-ai-expo",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.stormvikas.stakepredictor",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
