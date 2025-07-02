@@ -1,8 +1,12 @@
 {
+  "cli": {
+    "version": ">= 3.0.0"
+  },
   "build": {
     "preview": {
+      "distribution": "internal",
       "android": {
-        "concurrency": 1
+        "buildType": "apk"
       }
     }
   }
